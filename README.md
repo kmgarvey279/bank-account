@@ -11,8 +11,8 @@
 
 ## Specs
 
-*_The program will allow the user to input their name and initial deposit amount in order to create a new account._
-*_The current balance of the account will be displayed to the user, they can than either deposit or withdraw funds to change this amount._  
+* _The program will allow the user to input their name and initial deposit amount in order to create a new account._
+* _The current balance of the account will be displayed to the user, they can than either deposit or withdraw funds to change this amount._  
 
 ## Known Bugs
 
